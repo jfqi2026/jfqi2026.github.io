@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jfqi2026.github.io/sitemap.xml

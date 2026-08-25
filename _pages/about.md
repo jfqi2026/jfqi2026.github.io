@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Japanese-French Quantum Information 2023 workshop (13th to 15th December 2026)
+subtitle: Japanese-French Quantum Information 2026 workshop (<strong>2-4 December 2026</strong>)
 
 news: false  #  includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -10,19 +10,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-The Japanese-French Quantum Information 2023 workshop is organised by the [Japanese-French Laboratory for Informatics](https://jfli.cnrs.fr) (JFLI), an International Research Laboratory (IRL 3527) formed by two French institutions ([CNRS](https://www.cnrs.fr/en) and [Sorbonne University](https://www.sorbonne-universite.fr/)) and three Japanese institutions ([NII](https://www.nii.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), and [Keio University](https://www.keio.ac.jp/en/)). This workshop is sponsored by the [Embassy of France in Japan](https://jp.ambafrance.org/).
+The Japanese-French Quantum Information 2026 workshop is organised by [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/), with funding from the [Japanese-French Laboratory for Informatics](https://jfli.cnrs.fr) (JFLI). JFLI is an International Research Laboratory (IRL 3527) formed by two French institutions ([CNRS](https://www.cnrs.fr/en) and [Sorbonne University](https://www.sorbonne-universite.fr/)) and three Japanese institutions ([NII](https://www.nii.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), and [Keio University](https://www.keio.ac.jp/en/)).
 
-This workshop will take place in Tokyo from Wednesday 13th to Friday 15th of December of 2023, and its main goal is to maintain and strengthen the collaboration between quantum information researchers based in Japan and France.
+This workshop will take place in Tokyo from **2-4 December 2026** (Wednesday to Friday). Its main goal is to maintain and strengthen collaboration between quantum information researchers based in Japan and France.
 
-Questions or comments regarding the workshop or this website might be address to [Marco.Quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr).
+Information about the previous edition is available on the [JFQI 2023 website](https://jfqi2023.github.io/).
 
-Organisation and website: [Marco Túlio Quintino](https://mtcq.github.io/) <br>
-Co-organisation: [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
-Local support:  [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/), [Mio Murao](http://www.s.u-tokyo.ac.jp/en/people/murao_mio/) <br>
-Sponsor:  [Ambassade de France de Tokyo - 在日フランス大使館](https://jp.ambafrance.org/) <br>
-Contact email: [Marco.Quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr) 
+Questions or comments regarding the workshop or this website may be addressed to [Jessica.Bavaresco@lip6.fr](mailto:Jessica.Bavaresco@lip6.fr) or [Marco.Quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr).
 
- <br>
- ![logos](/assets/img/JFLI3.jpg)
- <br>
- ![logos](/assets/img/ambassade.jpg)
+Organisation: [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/) <br>
+<!-- Website: [Marco Túlio Quintino](https://mtcq.github.io/) <br> -->
+Funding: [Japanese-French Laboratory for Informatics](https://jfli.cnrs.fr) (JFLI) <br>
+Contact emails: [Jessica.Bavaresco@lip6.fr](mailto:Jessica.Bavaresco@lip6.fr) and [Marco.Quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr)
+
+<br>
+![JFLI and partner institutions](/assets/img/JFLI3.jpg)

@@ -14,3 +14,5 @@ nav_order: 3
 - [Marco Túlio Quintino](https://mtcq.github.io/)
 - [Ryuji Takagi](https://ryujitakagi.wordpress.com/)
 - [Hayata Yamasaki](https://www.hayatayamasaki.com/)
+- [Mio Murao](https://www.s.u-tokyo.ac.jp/en/people/murao_mio/)
+- [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/)

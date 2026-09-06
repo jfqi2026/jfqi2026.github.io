@@ -16,3 +16,7 @@ nav_order: 3
 - [Hayata Yamasaki](https://www.hayatayamasaki.com/)
 - [Mio Murao](https://www.s.u-tokyo.ac.jp/en/people/murao_mio/)
 - [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/)
+- [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2862)
+- [Lucas Porto](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2805)
+- [Carlos Humberto de Souza Vieira](https://scholar.google.com/citations?user=FqSc_4AAAAAJ&hl=en)
+- [Mariia Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859)

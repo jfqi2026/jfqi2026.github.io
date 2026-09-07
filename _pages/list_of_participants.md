@@ -11,6 +11,7 @@ nav_order: 3
 - [Polina Chernyshova](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2890)
 - [Philippe Codognet](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1167)
 - [Zoe G. del Toro](https://zoegdt.github.io/)
+- [Alex Grilo](https://qi.lip6.fr/people/alex-grilo/)
 - [Mariia Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859)
 - [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2862)
 - [Mio Murao](https://www.s.u-tokyo.ac.jp/en/people/murao_mio/)

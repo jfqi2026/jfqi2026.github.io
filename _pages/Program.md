@@ -8,7 +8,7 @@ nav: true
 nav_order: 3
 ---
 
-The workshop will take place from Wednesday 2 to Friday 4 December 2026.
+The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
 
 The program is currently being prepared. A tentative timetable is below, it will be updated once confirmed.
 

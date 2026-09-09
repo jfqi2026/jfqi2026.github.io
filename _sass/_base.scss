@@ -95,6 +95,11 @@ table {
       }
     }
 
+    // Give the two-hour lunch slot extra height.
+    tr:nth-child(9) td {
+      height: 6.0375rem;
+    }
+
     tr:nth-child(even) {
       background: var(--global-code-bg-color);
       background: color-mix(in srgb, var(--global-text-color) 3%, var(--global-bg-color));

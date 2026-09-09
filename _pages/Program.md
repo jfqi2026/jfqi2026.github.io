@@ -27,8 +27,8 @@ The program is currently being prepared. A tentative timetable is below, it will
 | 13:00 – 15:00 | **LUNCH** | **LUNCH** | **LUNCH** |
 | 15:00 – 15:30 | Talk | Talk | Talk |
 | 15:30 – 16:00 | Talk | Talk | Talk |
-| 16:00 – 17:00 | **BREAK** | **BREAK** | **BREAK** |
+| 16:00 – 16:30 | **BREAK** | **BREAK** | **BREAK** |
+| 16:30 – 17:00 | Talk | Talk | Talk |
 | 17:00 – 17:30 | Talk | Talk | Talk |
-| 17:30 – 18:00 | Talk | Talk | Talk |
 
 </div>

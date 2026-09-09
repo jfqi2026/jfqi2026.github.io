@@ -2,9 +2,10 @@
 layout: page
 permalink: /list_of_participants/
 title: list of participants
+display_title: List of participants
 description: List of confirmed participants
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 - [Jessica Bavaresco](https://jessicabavaresco.github.io/)

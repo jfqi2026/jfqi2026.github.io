@@ -34,6 +34,93 @@ table {
   }
 }
 
+// Conference program: keep the Markdown table easy to edit.
+.program-timetable {
+  margin: 1.75rem 0 2rem;
+  overflow-x: auto;
+  border: 1px solid var(--global-divider-color);
+  border-top: 3px solid var(--global-theme-color);
+  border-radius: 10px;
+
+  &:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 4px;
+  }
+
+  table {
+    width: 100%;
+    min-width: 560px;
+    margin: 0;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+
+  th,
+  td {
+    padding: 0.75rem 1rem;
+    vertical-align: middle;
+    text-align: center !important;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:first-child {
+      width: 28%;
+      text-align: left !important;
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+    }
+  }
+
+  thead th {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: var(--global-code-bg-color);
+    color: var(--global-theme-color);
+    font-weight: 700;
+  }
+
+  tbody {
+    // Keep the 09:45–10:00 opening compact, with room for its label.
+    tr:nth-child(2) {
+      td {
+        height: 35px;
+        padding-top: 0;
+        padding-bottom: 0;
+        line-height: 1.25rem;
+      }
+
+      strong {
+        padding-top: 0;
+        padding-bottom: 0;
+        vertical-align: middle;
+      }
+    }
+
+    tr:nth-child(even) {
+      background: color-mix(in srgb, var(--global-text-color) 3%, var(--global-bg-color));
+    }
+
+    tr:last-child td {
+      border-bottom: 0;
+    }
+
+    td:first-child {
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+
+    strong {
+      display: inline-block;
+      padding: 0.25rem 0.55rem;
+      border-radius: 5px;
+      background: color-mix(in srgb, var(--global-theme-color) 10%, var(--global-bg-color));
+      color: var(--global-theme-color);
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.025em;
+    }
+  }
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);

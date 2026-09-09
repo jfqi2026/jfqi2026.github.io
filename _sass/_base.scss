@@ -96,6 +96,7 @@ table {
     }
 
     tr:nth-child(even) {
+      background: var(--global-code-bg-color);
       background: color-mix(in srgb, var(--global-text-color) 3%, var(--global-bg-color));
     }
 
@@ -112,6 +113,7 @@ table {
       display: inline-block;
       padding: 0.25rem 0.55rem;
       border-radius: 5px;
+      background: var(--global-code-bg-color);
       background: color-mix(in srgb, var(--global-theme-color) 10%, var(--global-bg-color));
       color: var(--global-theme-color);
       font-size: 0.8rem;

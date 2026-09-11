@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Japanese-French Quantum Information 2026 Workshop (<strong>Tokyo, 2-4 December 2026</strong>)
+subtitle: Japanese-French Quantum Information 2026 Workshop (<strong>2–4 December 2026 in Tokyo, Japan</strong>)
 
 news: false  #  includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -10,9 +10,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-The Japanese-French Quantum Information 2026 Workshop is organised by [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/), with funding from the [Japanese-French Laboratory for Informatics](https://jfli.cnrs.fr) (JFLI). JFLI is an International Research Laboratory (IRL 3527) formed by two French institutions ([CNRS](https://www.cnrs.fr/en) and [Sorbonne University](https://www.sorbonne-universite.fr/)) and three Japanese institutions ([NII](https://www.nii.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), and [Keio University](https://www.keio.ac.jp/en/)). Its main goal is to maintain and strengthen collaboration between quantum information researchers based in Japan and France.
+The Japanese-French Quantum Information 2026 Workshop is a workshop of the [Japanese-French Laboratory for Informatics (JFLI)](https://jfli.cnrs.fr). The JFLI is an International Research Laboratory (IRL 3527) formed by two French institutions ([CNRS](https://www.cnrs.fr/en) and [Sorbonne University](https://www.sorbonne-universite.fr/)) and three Japanese institutions ([NII](https://www.nii.ac.jp/en/), [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), and [Keio University](https://www.keio.ac.jp/en/)). The main goal of the workshop is to strengthen collaborations and create new connections between JFLI members in Japan and France who are working on quantum information science.
 
-The workshop will take place in Tokyo from 2-4 December 2026 (Wednesday to Friday) at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/), on [2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan](https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Informatics%2C%202-1-2%20Hitotsubashi%2C%20Chiyoda-ku%2C%20Tokyo%20101-8430%2C%20Japan).
+The workshop will take place in Tokyo on 2–4 December 2026 (Wednesday to Friday) at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/), at [2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan](https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Informatics%2C%202-1-2%20Hitotsubashi%2C%20Chiyoda-ku%2C%20Tokyo%20101-8430%2C%20Japan).
+
+The workshop is organised by [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/), with funding from the [Japanese-French Laboratory for Informatics (JFLI)](https://jfli.cnrs.fr) and the [Quantum Information Center Sorbonne (QICS)](https://qics.sorbonne-universite.fr/en).
+
 
 Information about the previous edition is available on the [JFQI 2023 website](https://jfqi2023.github.io/).
 

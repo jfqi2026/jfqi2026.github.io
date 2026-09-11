@@ -10,13 +10,13 @@ nav_order: 3
 
 The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
 
-The program is currently being prepared. A tentative timetable is below, it will be updated once confirmed.
+The program is currently being prepared. A tentative timetable is below. It will be updated once confirmed.
 
 <div class="program-timetable" markdown="1" role="region" aria-label="Tentative workshop timetable" tabindex="0">
 
 | Time | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- |
-| 09:00 – 9:45 | **Registration** |      |      |
+| 09:00 – 09:45 | **Registration** |      |      |
 | 09:45 – 10:00 | **Opening** |      |      |
 | 10:00 – 10:30 | Talk | Talk | Talk |
 | 10:30 – 11:00 | Talk | Talk | Talk |

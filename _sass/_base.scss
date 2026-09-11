@@ -1152,3 +1152,32 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+.funding-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  margin: 24px 0 32px;
+
+  img {
+    display: block;
+    width: auto;
+    height: 100px;
+  }
+
+  img.funding-logo-jfli {
+    height: 144px;
+  }
+
+  @media (max-width: 575px) {
+    gap: 16px;
+
+    img {
+      height: 14vw;
+    }
+
+    img.funding-logo-jfli {
+      height: 20.16vw;
+    }
+  }
+}

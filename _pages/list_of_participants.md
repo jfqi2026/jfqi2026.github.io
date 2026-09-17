@@ -16,6 +16,7 @@ nav_order: 4
 - [Michal Hajdušek](https://quantum.keio.ac.jp/employees/michal-hajdusek/)
 - [Mariia Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859)
 - [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2862)
+- Pérola Milman
 - [Mio Murao](https://www.s.u-tokyo.ac.jp/en/people/murao_mio/)
 - [Lucas Porto](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2805)
 - [Marco Túlio Quintino](https://mtcq.github.io/)

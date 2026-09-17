@@ -79,15 +79,8 @@ table {
   }
 
   tbody {
-    // Keep the 09:45–10:00 opening compact, with room for its label.
-    tr:nth-child(2) {
-      td {
-        height: 35px;
-        padding-top: 0;
-        padding-bottom: 0;
-        line-height: 1.25rem;
-      }
-
+    // Keep registration and opening the same height as a half-hour talk.
+    tr:nth-child(-n + 2) {
       strong {
         padding-top: 0;
         padding-bottom: 0;

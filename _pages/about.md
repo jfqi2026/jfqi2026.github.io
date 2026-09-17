@@ -21,9 +21,10 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 
 <h2 class="h5 font-weight-bold">Confirmed Speakers</h2>
 
-- Philippe Codognet (JFLI)
-- Alex B. Grilo (LIP6, CNRS & Sorbonne University)
+- Philippe Codognet (JFLI, CNRS, Sorbonne University)
+- Alex B. Grilo (LIP6, CNRS, Sorbonne University)
 - Michal Hajdušek (Keio University)
+- Pérola Milman (MPQ, CNRS, University Paris Cité)
 - Mio Murao (The University of Tokyo)
 - Akihito Soeda (National Institute of Informatics)
 - Ryuji Takagi (The University of Tokyo)

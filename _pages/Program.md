@@ -16,8 +16,8 @@ The program is currently being prepared. A tentative timetable is below. It will
 
 | Time | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- |
-| 09:00 – 09:45 | **Registration** |      |      |
-| 09:45 – 10:00 | **Opening** |      |      |
+| 09:00 – 09:30 | **Registration** |      |      |
+| 09:30 – 10:00 | **Opening** |      |      |
 | 10:00 – 10:30 | Talk | Talk | Talk |
 | 10:30 – 11:00 | Talk | Talk | Talk |
 | 11:00 – 11:30 | Talk | Talk | Talk |

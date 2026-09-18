@@ -29,6 +29,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Akihito Soeda (National Institute of Informatics)
 - Ryuji Takagi (The University of Tokyo)
 - Hayata Yamasaki (The University of Tokyo)
+- Satoshi Yoshida (The University of Tokyo)
 
 Organisation: [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/) <br>
 <!-- Website: [Marco Túlio Quintino](https://mtcq.github.io/) <br> -->

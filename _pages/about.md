@@ -26,6 +26,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Michal Hajdušek (Keio University)
 - Pérola Milman (MPQ, CNRS, University Paris Cité)
 - Mio Murao (The University of Tokyo)
+- Takahito Satoh (Keio University)
 - Akihito Soeda (National Institute of Informatics)
 - Ryuji Takagi (The University of Tokyo)
 - Hayata Yamasaki (The University of Tokyo)

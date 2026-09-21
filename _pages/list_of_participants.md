@@ -20,6 +20,7 @@ nav_order: 4
 - [Mio Murao](https://www.s.u-tokyo.ac.jp/en/people/murao_mio/)
 - [Lucas Porto](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2805)
 - [Marco Túlio Quintino](https://mtcq.github.io/)
+- [Takahito Satoh](https://quantum.keio.ac.jp/employees/takahiko-satoh/)
 - [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/)
 - [Ryuji Takagi](https://ryujitakagi.wordpress.com/)
 - [Carlos Humberto de Souza Vieira](https://www.lip6.fr/actualite/personnes-fiche.php?ident=I2172)

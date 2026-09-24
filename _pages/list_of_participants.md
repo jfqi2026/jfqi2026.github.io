@@ -22,6 +22,7 @@ nav_order: 4
 - [Marco Túlio Quintino](https://mtcq.github.io/)
 - [Takahito Satoh](https://quantum.keio.ac.jp/employees/takahiko-satoh/)
 - [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/)
+- [Ivan Šupić](https://quantumsupic.github.io)
 - [Ryuji Takagi](https://ryujitakagi.wordpress.com/)
 - [Carlos Humberto de Souza Vieira](https://www.lip6.fr/actualite/personnes-fiche.php?ident=I2172)
 - [Hayata Yamasaki](https://www.hayatayamasaki.com/)

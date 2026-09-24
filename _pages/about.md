@@ -28,6 +28,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Mio Murao (The University of Tokyo)
 - Takahito Satoh (Keio University)
 - Akihito Soeda (National Institute of Informatics)
+- Ivan Šupić (LIG, CNRS, Université Grenoble Alpes)
 - Ryuji Takagi (The University of Tokyo)
 - Hayata Yamasaki (The University of Tokyo)
 - Satoshi Yoshida (The University of Tokyo)

@@ -24,6 +24,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Philippe Codognet (JFLI, CNRS, Sorbonne University)
 - Alex B. Grilo (LIP6, CNRS, Sorbonne University)
 - Michal Hajdušek (Keio University)
+- Iordanis Kerenidis (IRIF, CNRS, Université Paris-Cité)
 - Pérola Milman (MPQ, CNRS, University Paris Cité)
 - Mio Murao (The University of Tokyo)
 - Takahito Satoh (Keio University)

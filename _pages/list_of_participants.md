@@ -14,6 +14,7 @@ nav_order: 4
 - [Zoe García del Toro](https://zoegdt.github.io/)
 - [Alex B. Grilo](https://abgrilo.github.io/)
 - [Michal Hajdušek](https://quantum.keio.ac.jp/employees/michal-hajdusek/)
+- [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html)
 - [Mariia Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859)
 - [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2862)
 - [Pérola Milman](https://mpq.u-paris.fr/annuaire/milman-perola/)

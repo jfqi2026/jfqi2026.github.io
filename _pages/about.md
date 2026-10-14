@@ -26,6 +26,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Michal Hajdušek (Keio University)
 - Iordanis Kerenidis (IRIF, CNRS, University Paris-Cité)
 - Ravi Kunjwal (LIS, CNRS, Aix-Marseille University)
+- Mehdi Mhalla (LIG, CNRS, University Grenoble Alpes)
 - Pérola Milman (MPQ, CNRS, University Paris Cité)
 - Mio Murao (The University of Tokyo)
 - Ion Nechita (LPT, CNRS, University of Toulouse)

@@ -18,6 +18,7 @@ nav_order: 4
 - [Ravi Kunjwal](https://ravikunjwal.com)
 - [Mariia Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859)
 - [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2862)
+- [Mehdi Mhalla](https://membres-lig.imag.fr/mhalla/)
 - [Pérola Milman](https://mpq.u-paris.fr/annuaire/milman-perola/)
 - [Mio Murao](https://www.s.u-tokyo.ac.jp/en/people/murao_mio/)
 - [Ion Nechita](https://ion.nechita.net)

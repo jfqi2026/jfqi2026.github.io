@@ -8,6 +8,7 @@ nav: true
 nav_order: 4
 ---
 
+- [Armando Angrisani](https://sites.google.com/view/angrisani)
 - [Jessica Bavaresco](https://jessicabavaresco.github.io/)
 - [Polina Chernyshova](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2890)
 - [Philippe Codognet](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1167)

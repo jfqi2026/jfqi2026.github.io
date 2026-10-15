@@ -31,6 +31,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Pérola Milman (MPQ, CNRS, University Paris Cité)
 - Mio Murao (The University of Tokyo)
 - Ion Nechita (LPT, CNRS, University of Toulouse)
+- Bernard Ousmane Sane (Keio University)
 - Takahito Satoh (Keio University)
 - Akihito Soeda (National Institute of Informatics)
 - Ivan Šupić (LIG, CNRS, University Grenoble Alpes)

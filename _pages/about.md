@@ -25,6 +25,8 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Philippe Codognet (JFLI, CNRS, Sorbonne University)
 - Alex B. Grilo (LIP6, CNRS, Sorbonne University)
 - Michal Hajdušek (Keio University)
+- Tadashi Kadowaki (AIST)
+- Masato Koashi (The University of Tokyo)
 - Ravi Kunjwal (LIS, CNRS, Aix-Marseille University)
 - Jonas Landman (DIENS, Inria, CNRS, École normale supérieure)
 - Kristin S. Lien (LIP6, CNRS, Sorbonne University)

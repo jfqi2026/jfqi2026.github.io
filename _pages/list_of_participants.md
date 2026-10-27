@@ -15,6 +15,8 @@ nav_order: 4
 - [Zoe García del Toro](https://zoegdt.github.io/)
 - [Alex B. Grilo](https://abgrilo.github.io/)
 - [Michal Hajdušek](https://quantum.keio.ac.jp/employees/michal-hajdusek/)
+- [Tadashi Kadowaki](https://dblp.org/pid/36/7606.html)
+- [Masato Koashi](https://www.u-tokyo.ac.jp/focus/en/people/people003544.html)
 - [Ravi Kunjwal](https://ravikunjwal.com)
 - [Mariia Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859)
 - [Jonas Landman](https://scholar.google.com/citations?user=itqTkSwAAAAJ&hl=fr)

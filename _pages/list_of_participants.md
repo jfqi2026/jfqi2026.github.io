@@ -36,6 +36,6 @@ nav_order: 4
 - [Ivan Šupić](https://quantumsupic.github.io)
 - [Ryuji Takagi](https://ryujitakagi.wordpress.com/)
 - [Nicolas Treps](https://www.lkb.fr/multimodequantumoptics/about-the-team/people/nicolas-treps/)
-- [Carlos Humberto de Souza Vieira](https://www.lip6.fr/actualite/personnes-fiche.php?ident=I2172)
+- [Carlos Vieira](https://www.lip6.fr/actualite/personnes-fiche.php?ident=I2172)
 - [Hayata Yamasaki](https://www.hayatayamasaki.com/)
 - [Satoshi Yoshida](https://sy3104.github.io)

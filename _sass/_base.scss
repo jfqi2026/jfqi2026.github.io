@@ -1145,6 +1145,36 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+.endorsement-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  margin: 24px 0 32px;
+
+  a {
+    max-width: 100%;
+  }
+
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding: 16px;
+  }
+
+  .endorsement-logo-quantum {
+    width: 240px;
+    background-color: #242424;
+  }
+
+  .endorsement-logo-nii {
+    width: 360px;
+    background-color: #fff;
+  }
+}
+
 .funding-logos {
   display: flex;
   align-items: center;

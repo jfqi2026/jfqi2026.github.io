@@ -62,3 +62,12 @@ This workshop is supported by the programme d'investissements d’excellence IDE
 **The JFLI is a partnership of:**
 
 ![Sorbonne Université, CNRS, NII, Keio University, and the University of Tokyo](/assets/img/Partner_institutions.png){: .img-fluid }
+
+**Endorsement:**
+
+<div class="endorsement-logos">
+  <a href="https://quantum.nii.ac.jp"><img class="endorsement-logo-quantum" src="{{ '/assets/img/quantum-center-logo.svg' | relative_url }}" alt="Global Research Center for Quantum Information Science"></a>
+  <a href="https://www.nii.ac.jp"><img class="endorsement-logo-nii" src="{{ '/assets/img/nii-logo.gif' | relative_url }}" alt="National Institute of Informatics (NII)"></a>
+</div>
+
+This event is endorsed by the [Global Research Center for Quantum Information Science](https://quantum.nii.ac.jp) of the [National Institute of Informatics](https://www.nii.ac.jp).

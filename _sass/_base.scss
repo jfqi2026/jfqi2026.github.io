@@ -90,15 +90,21 @@ table {
       }
     }
 
-    // Give the two-hour lunch slot extra height.
+    // Give the two-hour lunch and poster slots equal extra height.
     tr.program-lunch th,
-    tr.program-lunch td {
+    tr.program-lunch td,
+    tr.program-poster th,
+    tr.program-poster td {
       height: 6.0375rem;
     }
 
-    tr:nth-child(even) {
-      background: var(--global-code-bg-color);
-      background: color-mix(in srgb, var(--global-text-color) 3%, var(--global-bg-color));
+    tr {
+      background: #fff;
+      color: #333;
+    }
+
+    tr.program-event {
+      background: #f2f2f2;
     }
 
     tr:last-child th,

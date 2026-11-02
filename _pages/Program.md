@@ -23,13 +23,13 @@ The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr class="program-event">
         <th scope="row">09:00 – 09:30</th>
         <td><strong>Registration</strong></td>
         <td>—</td>
         <td>—</td>
       </tr>
-      <tr>
+      <tr class="program-event">
         <th scope="row">09:30 – 10:00</th>
         <td><strong>Opening session</strong></td>
         <td>—</td>
@@ -47,7 +47,7 @@ The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
         <td>Philippe Codognet</td>
         <td>Ivan Šupić</td>
       </tr>
-      <tr>
+      <tr class="program-event">
         <th scope="row">11:00 – 11:30</th>
         <td><strong>Break</strong></td>
         <td><strong>Break</strong></td>
@@ -65,7 +65,7 @@ The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
         <td>Michal Hajdušek</td>
         <td>Alex B. Grilo</td>
       </tr>
-      <tr class="program-lunch">
+      <tr class="program-lunch program-event">
         <th scope="row">12:30 – 14:30</th>
         <td><strong>Lunch and Discussion</strong></td>
         <td><strong>Lunch and Discussion</strong></td>
@@ -83,7 +83,7 @@ The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
         <td>Armando Angrisani</td>
         <td>Bernard O. Sane</td>
       </tr>
-      <tr>
+      <tr class="program-event">
         <th scope="row">15:30 – 16:00</th>
         <td><strong>Break</strong></td>
         <td><strong>Break</strong></td>
@@ -101,14 +101,11 @@ The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
         <td>Hayata Yamasaki</td>
         <td>Satoshi Yoshida</td>
       </tr>
-      <tr>
-        <th scope="row">17:00 – 18:00</th>
-        <td rowspan="2"><strong>Poster session</strong></td>
-        <td rowspan="2">—</td>
-        <td rowspan="2">—</td>
-      </tr>
-      <tr>
-        <th scope="row">18:00 – 19:00</th>
+      <tr class="program-poster program-event">
+        <th scope="row">17:00 – 19:00</th>
+        <td><strong>Poster session</strong></td>
+        <td>—</td>
+        <td>—</td>
       </tr>
     </tbody>
   </table>

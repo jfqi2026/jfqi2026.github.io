@@ -10,25 +10,106 @@ nav_order: 3
 
 The workshop will take place from Wednesday 2nd to Friday 4th of December, 2026.
 
-The program is currently being prepared. A tentative timetable is below. It will be updated once confirmed.
+**This is a tentative version of the program. It will be updated to reflect any possible changes.**
 
-<div class="program-timetable" markdown="1" role="region" aria-label="Tentative workshop timetable" tabindex="0">
-
-| Time | Wednesday | Thursday | Friday |
-| :--- | :--- | :--- | :--- |
-| 09:00 – 09:30 | **Registration** |      |      |
-| 09:30 – 10:00 | **Opening** |      |      |
-| 10:00 – 10:30 | Talk | Talk | Talk |
-| 10:30 – 11:00 | Talk | Talk | Talk |
-| 11:00 – 11:30 | Talk | Talk | Talk |
-| 11:30 – 12:00 | **BREAK** | **BREAK** | **BREAK** |
-| 12:00 – 12:30 | Talk | Talk | Talk |
-| 12:30 – 13:00 | Talk | Talk | Talk |
-| 13:00 – 15:00 | **LUNCH** | **LUNCH** | **LUNCH** |
-| 15:00 – 15:30 | Talk | Talk | Talk |
-| 15:30 – 16:00 | Talk | Talk | Talk |
-| 16:00 – 16:30 | **BREAK** | **BREAK** | **BREAK** |
-| 16:30 – 17:00 | Talk | Talk | Talk |
-| 17:00 – 17:30 | Talk | Talk | Talk |
-
+<div class="program-timetable" role="region" aria-label="Workshop timetable" tabindex="0">
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Time</th>
+        <th scope="col">Wednesday<br>2 December</th>
+        <th scope="col">Thursday<br>3 December</th>
+        <th scope="col">Friday<br>4 December</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">09:00 – 09:30</th>
+        <td><strong>Registration</strong></td>
+        <td>—</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th scope="row">09:30 – 10:00</th>
+        <td><strong>Opening session</strong></td>
+        <td>—</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <th scope="row">10:00 – 10:30</th>
+        <td>Mio Murao</td>
+        <td>Kae Nemoto</td>
+        <td>Ion Nechita</td>
+      </tr>
+      <tr>
+        <th scope="row">10:30 – 11:00</th>
+        <td>Akihito Soeda</td>
+        <td>Philippe Codognet</td>
+        <td>Ivan Šupić</td>
+      </tr>
+      <tr>
+        <th scope="row">11:00 – 11:30</th>
+        <td><strong>Break</strong></td>
+        <td><strong>Break</strong></td>
+        <td><strong>Break</strong></td>
+      </tr>
+      <tr>
+        <th scope="row">11:30 – 12:00</th>
+        <td>Nicolas Treps</td>
+        <td>Tadashi Kadowaki</td>
+        <td>Mehdi Mhalla</td>
+      </tr>
+      <tr>
+        <th scope="row">12:00 – 12:30</th>
+        <td>Pérola Milman</td>
+        <td>Michal Hajdušek</td>
+        <td>Alex B. Grilo</td>
+      </tr>
+      <tr class="program-lunch">
+        <th scope="row">12:30 – 14:30</th>
+        <td><strong>Lunch and Discussion</strong></td>
+        <td><strong>Lunch and Discussion</strong></td>
+        <td><strong>Lunch and Discussion</strong></td>
+      </tr>
+      <tr>
+        <th scope="row">14:30 – 15:00</th>
+        <td>Takahiko Satoh</td>
+        <td>Jonas Landman</td>
+        <td>Kristin S. Lien</td>
+      </tr>
+      <tr>
+        <th scope="row">15:00 – 15:30</th>
+        <td>Eliott Mamon</td>
+        <td>Armando Angrisani</td>
+        <td>Bernard O. Sane</td>
+      </tr>
+      <tr>
+        <th scope="row">15:30 – 16:00</th>
+        <td><strong>Break</strong></td>
+        <td><strong>Break</strong></td>
+        <td><strong>Break</strong></td>
+      </tr>
+      <tr>
+        <th scope="row">16:00 – 16:30</th>
+        <td>Masato Koashi</td>
+        <td>Ravi Kunjwal</td>
+        <td>Ryuji Takagi</td>
+      </tr>
+      <tr>
+        <th scope="row">16:30 – 17:00</th>
+        <td>Carlos Vieira</td>
+        <td>Hayata Yamasaki</td>
+        <td>Satoshi Yoshida</td>
+      </tr>
+      <tr>
+        <th scope="row">17:00 – 18:00</th>
+        <td rowspan="2"><strong>Poster session</strong></td>
+        <td rowspan="2">—</td>
+        <td rowspan="2">—</td>
+      </tr>
+      <tr>
+        <th scope="row">18:00 – 19:00</th>
+      </tr>
+    </tbody>
+  </table>
 </div>

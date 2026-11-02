@@ -30,7 +30,7 @@ nav_order: 4
 - [Kae Nemoto](https://www.oist.jp/research/research-units/qist/kae-nemoto)
 - [Lucas Porto](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2805)
 - [Marco Túlio Quintino](https://mtcq.github.io/)
-- [Bernard Ousmane Sane](https://scholar.google.com/citations?user=YMJbS5wAAAAJ&hl=en)
+- [Bernard O. Sane](https://scholar.google.com/citations?user=YMJbS5wAAAAJ&hl=en)
 - [Takahiko Satoh](https://quantum.keio.ac.jp/employees/takahiko-satoh/)
 - [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/)
 - [Ivan Šupić](https://quantumsupic.github.io)

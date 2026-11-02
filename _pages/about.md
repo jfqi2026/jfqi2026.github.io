@@ -36,7 +36,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Mio Murao (The University of Tokyo)
 - Ion Nechita (LPT, CNRS, University of Toulouse)
 - Kae Nemoto (OIST, NII)
-- Bernard Ousmane Sane (Keio University)
+- Bernard O. Sane (Keio University)
 - Takahiko Satoh (Keio University)
 - Akihito Soeda (NII)
 - Ivan Šupić (LIG, CNRS, University Grenoble Alpes)

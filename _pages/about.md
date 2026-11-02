@@ -14,7 +14,7 @@ The Japanese-French Quantum Information 2026 Workshop is a workshop of the [Japa
 
 The workshop will take place in Tokyo on 2–4 December 2026 (Wednesday to Friday) at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/), at [2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8430, Japan](https://www.google.com/maps/search/?api=1&query=National%20Institute%20of%20Informatics%2C%202-1-2%20Hitotsubashi%2C%20Chiyoda-ku%2C%20Tokyo%20101-8430%2C%20Japan).
 
-The workshop is organised by [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/), with funding from the [Japanese-French Laboratory for Informatics (JFLI)](https://jfli.cnrs.fr) and the [Quantum Information Center Sorbonne (QICS)](https://qics.sorbonne-universite.fr/en).
+The workshop is organised by [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/), with funding from the [Japanese-French Laboratory for Informatics (JFLI)](https://jfli.cnrs.fr/) and the [Quantum Information Center Sorbonne (QICS)](https://qics.sorbonne-universite.fr/en), and endorsed by the [Global Research Center for Quantum Information Science](https://quantum.nii.ac.jp/) of the [National Institute of Informatics](https://www.nii.ac.jp/).
 
 
 Information about the previous edition is available on the [JFQI 2023 website](https://jfqi2023.github.io/).
@@ -46,7 +46,9 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - Hayata Yamasaki (The University of Tokyo)
 - Satoshi Yoshida (The University of Tokyo)
 
-Organisation: [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/) <br>
+Organization: [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/) <br>
+Local organization support: [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
+Local admin support: Toshie Sakakihara <br><br>
 <!-- Website: [Marco Túlio Quintino](https://mtcq.github.io/) <br> -->
 Contact emails: [jessica.bavaresco@lip6.fr](mailto:Jessica.Bavaresco@lip6.fr) and [marco.quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr)
 

@@ -35,6 +35,38 @@ table {
 }
 
 // Conference program: keep the Markdown table easy to edit.
+.talk-entry {
+  scroll-margin-top: 6rem;
+}
+
+.program-section-heading {
+  color: var(--global-theme-color);
+  font-weight: 700;
+}
+
+.talk-detail {
+  margin: 2rem 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--global-divider-color);
+
+  .talk-title {
+    margin-bottom: 0.4rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .talk-byline {
+    margin-bottom: 1rem;
+    color: var(--global-text-color-light);
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+    line-height: 1.65;
+  }
+}
+
 .program-timetable {
   margin: 1.75rem 0 2rem;
   overflow-x: auto;
@@ -80,6 +112,11 @@ table {
     font-weight: 700;
   }
 
+  thead th:first-child {
+    vertical-align: middle !important;
+    text-align: left !important;
+  }
+
   tbody {
     // Keep registration and opening the same height as a half-hour talk.
     tr:nth-child(-n + 2) {
@@ -90,7 +127,7 @@ table {
       }
     }
 
-    // Give the two-hour lunch and poster slots equal extra height.
+    // Give the lunch and poster slots equal extra height.
     tr.program-lunch th,
     tr.program-lunch td,
     tr.program-poster th,
@@ -103,7 +140,8 @@ table {
       color: #333;
     }
 
-    tr.program-event {
+    tr.program-event,
+    td.program-empty {
       background: #f2f2f2;
     }
 
@@ -128,6 +166,7 @@ table {
       font-weight: 600;
       letter-spacing: 0.025em;
     }
+
   }
 }
 
@@ -1155,6 +1194,55 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+.venue-summary {
+  margin: 0 0 1.5rem;
+  padding: 1.5rem;
+  border-left: 3px solid var(--global-theme-color);
+  background: var(--global-code-bg-color);
+  border-radius: 0 8px 8px 0;
+
+  h2 {
+    margin: 0 0 1.25rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  .venue-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 3rem;
+    margin: 0 0 1.25rem;
+
+    dt {
+      color: var(--global-text-color-light);
+      font-size: 0.9rem;
+      font-weight: 400;
+    }
+
+    dd {
+      margin: 0;
+      color: var(--global-text-color);
+      font-size: 1.5rem;
+      font-weight: 600;
+      line-height: 1.4;
+    }
+  }
+
+  .venue-dates {
+    margin: 0;
+  }
+}
+
+.venue-map {
+  display: block;
+  width: 100%;
+  height: clamp(300px, 55vw, 420px);
+  margin-top: 1.5rem;
+  border: 0;
+  border-radius: 8px;
+}
+
 .endorsement-logos {
   display: flex;
   flex-wrap: wrap;
@@ -1200,6 +1288,10 @@ nav[data-toggle="toc"] {
 
   img.funding-logo-jfli {
     height: 144px;
+  }
+
+  img.funding-logo-qics {
+    background-color: #fff;
   }
 
   @media (max-width: 575px) {

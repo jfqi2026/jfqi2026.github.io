@@ -447,13 +447,15 @@ We present a quantum circuit that implements the random dilation superchannel, t
 
 <div id="talk-zoe-g-del-toro" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### Purification as an Operational Resource
 {: .talk-title }
 
 Zoe G. del Toro · LIP6, CNRS, Sorbonne University
 {: .talk-byline }
 
-TBA
+Purifications provide a powerful way of representing quantum states and channels, but which purifications can actually be obtained when the underlying resource is only available through black-box uses?
+
+We will first discuss the possibility of constructing purifications of unknown quantum states and channels, showing that no finite number of uses can produce a fixed unknown purification exactly. One may then ask whether this obstruction can be overcome by averaging over the unknown purifying degrees of freedom. While such an averaged notion captures the relevant information in parallel settings, we show that it also fails in the sequential setting. This is witnessed operationally through channel discrimination: we exhibit perfect discrimination using two sequential queries to the purified channels and a query to the bare channel that cannot be achieved by any finite number of queries only to the bare channel, as well as strict gaps in two-query discrimination. These results reveal a fundamental distinction between bare and purified access to quantum channels.
 
 </div>
 

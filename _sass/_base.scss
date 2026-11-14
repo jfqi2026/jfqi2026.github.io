@@ -118,6 +118,11 @@ table {
   }
 
   tbody {
+    th,
+    td {
+      height: 4.5rem;
+    }
+
     // Keep registration and opening the same height as a half-hour talk.
     tr:nth-child(-n + 2) {
       strong {
@@ -132,7 +137,7 @@ table {
     tr.program-lunch td,
     tr.program-poster th,
     tr.program-poster td {
-      height: 6.0375rem;
+      height: 7rem;
     }
 
     tr {
@@ -143,6 +148,24 @@ table {
     tr.program-event,
     td.program-empty {
       background: #f2f2f2;
+    }
+
+    td.program-split-cell {
+      padding: 0 !important;
+
+      .program-split-slot {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 3.5rem;
+        padding: 0.4rem;
+        color: inherit;
+      }
+
+      .program-empty-slot {
+        border-top: 1px solid var(--global-divider-color);
+        background: #f2f2f2;
+      }
     }
 
     tr:last-child th,

@@ -106,7 +106,10 @@ nav_order: 3
       <tr class="program-poster">
         <th scope="row">17:30 – 19:30</th>
         <td><strong class="program-session-label"><a href="#posters">Poster Session</a></strong></td>
-        <td class="program-empty">—</td>
+        <td class="program-split-cell">
+          <div class="program-split-slot"><strong>Conference Photo</strong></div>
+          <div class="program-split-slot program-empty-slot">—</div>
+        </td>
         <td class="program-empty">—</td>
       </tr>
     </tbody>
@@ -300,13 +303,13 @@ TBA
 
 <div id="talk-armando-angrisani" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### Polynomial-time classical simulation of boson and fermion sampling under thermal loss
 {: .talk-title }
 
 Armando Angrisani · University of Copenhagen → DIENS, CNRS, École normale supérieure
 {: .talk-byline }
 
-TBA
+Sampling experiments are a leading approach to demonstrating quantum computational advantage, yet their robustness to experimental noise is not completely understood. We develop a common framework for classical simulation of boson and fermion sampling under thermal loss, including pure loss. For Fock-state boson sampling, Gaussian boson sampling with fixed uniform squeezing, and fermion sampling with magic inputs, we obtain polynomial-time sampling at inverse-polynomial total variation error, for any fixed nonzero overall loss rate, and with high probability over Haar-random interferometers. A milder flatness assumption on the ideal output distribution suffices for quasipolynomial-time simulation without Haar randomness. With constant thermal loss per layer, the same flatness assumption gives polynomial-time simulation at logarithmic depth. Our bounds for Fock-state boson sampling cover both dilute and saturated regimes and become stronger near full input filling: when only a bounded number of input modes are empty, the noisy output for Haar-random interferometers converges, as the number of modes grows, to a distribution independent of the interferometer. Based on [arXiv:2611.08444](https://arxiv.org/abs/2611.08444).
 
 </div>
 
@@ -423,13 +426,13 @@ Are there any open problems in quantum computer architecture, or have we reached
 
 <div id="talk-ryuji-takagi" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### Universal distillation of quantum entanglement
 {: .talk-title }
 
 Ryuji Takagi · The University of Tokyo
 {: .talk-byline }
 
-TBA
+Distillable entanglement has been a central quantity to characterize the operational value of entangled states. However, this operational meaning had been known to be valid only under a crucial assumption: both parties know the description of the input state and can choose the protocol tailored to it, which does not necessarily reflect the natural operational setting. In this talk, I present a universal LOCC protocol---whose description does not depend on the input state and thus works universally for any input---that achieves the distillable entanglement of an arbitrary unknown input state. Our result therefore lifts the distillable entanglement to a robust notion of an operationally meaningful quantity and clarifies that input-state knowledge is not necessary to achieve the optimal rate of entanglement distillation.
 
 </div>
 
@@ -462,32 +465,22 @@ We will first discuss the possibility of constructing purifications of unknown q
 ## Posters
 {: #posters .talk-entry .program-section-heading .mt-5 }
 
-<div id="poster-camiel-meijer" class="talk-entry talk-detail" markdown="1">
+<div id="poster-manaki-arihara" class="talk-entry talk-detail" markdown="1">
 
-### TBA
+### Sample-Query Interconversion of Block Encoding of Unknown Quantum States
 {: .talk-title }
 
-Camiel Meijer · LIP6, CNRS, Sorbonne University
+Manaki Arihara · The University of Tokyo
 {: .talk-byline }
 
 </div>
 
-<div id="poster-shinnosuke-onishi" class="talk-entry talk-detail" markdown="1">
+<div id="poster-monet-tokuyama-friedrich" class="talk-entry talk-detail" markdown="1">
 
-### Precision bounds for tomography of Gaussian measurements
+### Activating Distributed Trapped-Ion Quantum Nodes
 {: .talk-title }
 
-Shinnosuke Onishi · The University of Tokyo
-{: .talk-byline }
-
-</div>
-
-<div id="poster-ryo-mikami" class="talk-entry talk-detail" markdown="1">
-
-### Sparse-Blossom Decoding in o(1) Time
-{: .talk-title }
-
-Ryo Mikami · The University of Tokyo
+Monet Tokuyama Friedrich · Keio University
 {: .talk-byline }
 
 </div>
@@ -502,12 +495,132 @@ Shun Hasegawa · The University of Tokyo
 
 </div>
 
+<div id="poster-yutaka-hashimoto" class="talk-entry talk-detail" markdown="1">
+
+### Barycentric programming: Classical realization of programs for universal quantum processors
+{: .talk-title }
+
+Yutaka Hashimoto · The University of Tokyo
+{: .talk-byline }
+
+</div>
+
+<div id="poster-loren-holl" class="talk-entry talk-detail" markdown="1">
+
+### Quantum Advantage in Linear Attention
+{: .talk-title }
+
+Loren Holl · The University of Tokyo
+{: .talk-byline }
+
+</div>
+
+<div id="poster-ben-yardan-jumoorty" class="talk-entry talk-detail" markdown="1">
+
+### On optimality of entanglement-assisted one-sided-error quantum fingerprinting with local unitaries
+{: .talk-title }
+
+Ben Yardan Jumoorty · The University of Tokyo
+{: .talk-byline }
+
+</div>
+
+<div id="poster-marii-koyama" class="talk-entry talk-detail" markdown="1">
+
+### Reducing Loss in Optical Switches for Quantum Interconnects
+{: .talk-title }
+
+Marii Koyama · Keio University
+{: .talk-byline }
+
+</div>
+
+<div id="poster-thales-gottardello-marrafon" class="talk-entry talk-detail" markdown="1">
+
+### Entanglement-Aware Distribution of Feedback-Controlled Quantum Circuits
+{: .talk-title }
+
+Thales Gottardello Marrafon · NII
+{: .talk-byline }
+
+</div>
+
+<div id="poster-camiel-meijer" class="talk-entry talk-detail" markdown="1">
+
+### A polytope relaxation of process matrix correlations
+{: .talk-title }
+
+Camiel Meijer · LIP6, CNRS, Sorbonne University, NII
+{: .talk-byline }
+
+</div>
+
+<div id="poster-ryo-mikami" class="talk-entry talk-detail" markdown="1">
+
+### Sparse-Blossom Decoding in o(1) Time
+{: .talk-title }
+
+Ryo Mikami · The University of Tokyo
+{: .talk-byline }
+
+</div>
+
 <div id="poster-yuichi-mori" class="talk-entry talk-detail" markdown="1">
 
 ### Work extraction from unknown quantum Gibbs states on a 1D spin chain
 {: .talk-title }
 
 Yuichi Mori · The University of Tokyo
+{: .talk-byline }
+
+</div>
+
+<div id="poster-wataru-nagata" class="talk-entry talk-detail" markdown="1">
+
+### Probabilistic Exact Unitary Channel Inversion Assisted by Eigenstates as Quantum Knowledge
+{: .talk-title }
+
+Wataru Nagata · The University of Tokyo
+{: .talk-byline }
+
+</div>
+
+<div id="poster-shinnosuke-onishi" class="talk-entry talk-detail" markdown="1">
+
+### Precision bounds for tomography of Gaussian measurements
+{: .talk-title }
+
+Shinnosuke Onishi · The University of Tokyo
+{: .talk-byline }
+
+</div>
+
+<div id="poster-lucas-porto" class="talk-entry talk-detail" markdown="1">
+
+### Non-signaling assistance in prepare-and-measure scenarios with classical communication
+{: .talk-title }
+
+Lucas Porto · LIP6, CNRS, Sorbonne University, NII
+{: .talk-byline }
+
+</div>
+
+<div id="poster-luis-paulo-peixoto-dos-santos" class="talk-entry talk-detail" markdown="1">
+
+### Towards Efficient Path-based Simulation of Quantum Circuits
+{: .talk-title }
+
+Luis Paulo Peixoto dos Santos · INESC TEC
+{: .talk-byline }
+
+</div>
+
+<div id="poster-yuta-yabuki" class="talk-entry talk-detail" markdown="1">
+
+### Hamiltonian and Dissipation Extraction from Unknown Lindbladian Dynamics
+{: .talk-title }
+
+Yuta Yabuki · The University of Tokyo
 {: .talk-byline }
 
 </div>

@@ -15,7 +15,6 @@ nav_order: 4
 - Libor Caha
 - Polina Chernyshova
 - Philippe Codognet
-- Zoe G. del Toro
 - Monet Tokuyama Friedrich
 - Alex B. Grilo
 - Michal Hajdušek
@@ -59,6 +58,7 @@ nav_order: 4
 - Kento Samuel Soon
 - Ivan Šupić
 - Ryuji Takagi
+- Zoe G. del Toro
 - Nicolas Treps
 - Rodney van Meter
 - Carlos Vieira

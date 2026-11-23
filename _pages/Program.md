@@ -59,7 +59,7 @@ nav_order: 3
         <th scope="row">12:00 – 12:30</th>
         <td><a href="#talk-perola-milman">Pérola Milman</a></td>
         <td><a href="#talk-michal-hajdusek">Michal Hajdušek</a></td>
-        <td><a href="#talk-alex-b-grilo">Alex B. Grilo</a></td>
+        <td><a href="#talk-zoe-g-del-toro">Zoe G. del Toro</a></td>
       </tr>
       <tr class="program-lunch program-event">
         <th scope="row">12:30 – 14:30</th>
@@ -101,7 +101,7 @@ nav_order: 3
         <th scope="row">17:00 – 17:30</th>
         <td><a href="#talk-polina-chernyshova">Polina Chernyshova</a></td>
         <td><a href="#talk-romain-piron">Romain Piron</a></td>
-        <td><a href="#talk-zoe-g-del-toro">Zoe G. del Toro</a></td>
+        <td class="program-empty" rowspan="2">—</td>
       </tr>
       <tr class="program-poster">
         <th scope="row">17:30 – 19:30</th>
@@ -110,7 +110,6 @@ nav_order: 3
           <div class="program-split-slot"><strong>Conference Photo</strong></div>
           <div class="program-split-slot program-empty-slot">—</div>
         </td>
-        <td class="program-empty">—</td>
       </tr>
     </tbody>
   </table>
@@ -156,13 +155,13 @@ TBA
 
 <div id="talk-nicolas-treps" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### Generating and certifying non-Gaussian states in time-frequency modes of light
 {: .talk-title }
 
 Nicolas Treps · LKB, CNRS, Sorbonne University
 {: .talk-byline }
 
-TBA
+The time-frequency modes of light form a collection of quantum harmonic oscillators that can carry and process quantum information. Gaussian states can exhibit entanglement across many such modes, yet protocols based entirely on Gaussian states, operations and measurements can be simulated efficiently on a classical computer. This motivates the search for ways to prepare non-Gaussian states and certify their quantum properties. We will discuss how subtracting a single photon from a selected mode can produce a non-Gaussian state, and how coupling light to a two-level system offers a complementary route. We will then show how to certify specific properties without reconstructing the full state. In particular, measurements in a single mode basis can reveal entanglement that persists under any choice of mode basis.
 
 </div>
 
@@ -388,15 +387,17 @@ TBA
 
 </div>
 
-<div id="talk-alex-b-grilo" class="talk-entry talk-detail" markdown="1">
+<div id="talk-zoe-g-del-toro" class="talk-entry talk-detail" markdown="1">
 
-#### Computational Monogamy of Entanglement and Non-Interactive Quantum Key Distribution
+#### Purification as an Operational Resource
 {: .talk-title }
 
-Alex B. Grilo · LIP6, CNRS, Sorbonne University
+Zoe G. del Toro · LIP6, CNRS, Sorbonne University
 {: .talk-byline }
 
-TBA
+Purifications provide a powerful way of representing quantum states and channels, but which purifications can actually be obtained when the underlying resource is only available through black-box uses?
+
+We will first discuss the possibility of constructing purifications of unknown quantum states and channels, showing that no finite number of uses can produce a fixed unknown purification exactly. One may then ask whether this obstruction can be overcome by averaging over the unknown purifying degrees of freedom. While such an averaged notion captures the relevant information in parallel settings, we show that it also fails in the sequential setting. This is witnessed operationally through channel discrimination: we exhibit perfect discrimination using two sequential queries to the purified channels and a query to the bare channel that cannot be achieved by any finite number of queries only to the bare channel, as well as strict gaps in two-query discrimination. These results reveal a fundamental distinction between bare and purified access to quantum channels.
 
 </div>
 
@@ -445,20 +446,6 @@ Satoshi Yoshida · The University of Tokyo
 {: .talk-byline }
 
 We present a quantum circuit that implements the random dilation superchannel, transforming parallel queries of an unknown quantum channel into the same number of parallel queries of a randomly chosen dilation isometry of the input channel. This is a natural generalization of the random purification channel, which transforms copies of an unknown mixed state into copies of a randomly chosen purification state. The circuit complexity of our construction is O(poly(n, log d\_I, log d\_O)), where n is the number of queries, and d\_I and d\_O are the input and output dimensions of the input channel, respectively. This random dilation superchannel is extended to the sequential queries approximately, by transforming the parallel random dilation isometry into sequential random dilation unitaries with O(poly(d\_I)) overhead in the number of queries. We also show that our results can be further extended to random dilation of quantum combs. On the other hand, we show a no-go theorem on the exact random dilation of sequential queries with o(poly(min\{d\_I,d\_O\})) query overhead, showcasing a fundamental difference between the parallel and sequential cases.
-
-</div>
-
-<div id="talk-zoe-g-del-toro" class="talk-entry talk-detail" markdown="1">
-
-#### Purification as an Operational Resource
-{: .talk-title }
-
-Zoe G. del Toro · LIP6, CNRS, Sorbonne University
-{: .talk-byline }
-
-Purifications provide a powerful way of representing quantum states and channels, but which purifications can actually be obtained when the underlying resource is only available through black-box uses?
-
-We will first discuss the possibility of constructing purifications of unknown quantum states and channels, showing that no finite number of uses can produce a fixed unknown purification exactly. One may then ask whether this obstruction can be overcome by averaging over the unknown purifying degrees of freedom. While such an averaged notion captures the relevant information in parallel settings, we show that it also fails in the sequential setting. This is witnessed operationally through channel discrimination: we exhibit perfect discrimination using two sequential queries to the purified channels and a query to the bare channel that cannot be achieved by any finite number of queries only to the bare channel, as well as strict gaps in two-query discrimination. These results reveal a fundamental distinction between bare and purified access to quantum channels.
 
 </div>
 

@@ -56,10 +56,13 @@ nav_order: 4
 - Kento Samuel Soon
 - Ivan Šupić
 - Ryuji Takagi
+- Theerapat Tansuwannont
 - Zoe G. del Toro
 - Nicolas Treps
 - Rodney van Meter
 - Carlos Vieira
+- Kazuki Watanabe
 - Yuta Yabuki
 - Hayata Yamasaki
+- Bo Yang
 - Satoshi Yoshida

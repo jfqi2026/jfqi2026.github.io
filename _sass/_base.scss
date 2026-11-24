@@ -151,12 +151,13 @@ table {
         align-items: center;
         justify-content: center;
         box-sizing: border-box;
-        height: var(--program-row-height);
+        height: calc(2 * var(--program-row-height) / 3);
         padding: 0.4rem;
         color: inherit;
       }
 
       .program-empty-slot {
+        height: calc(4 * var(--program-row-height) / 3);
         border-top: 1px solid var(--global-divider-color);
         background: #f2f2f2;
       }

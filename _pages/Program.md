@@ -101,7 +101,7 @@ nav_order: 3
         <th scope="row">17:00 – 17:30</th>
         <td><a href="#talk-polina-chernyshova">Polina Chernyshova</a></td>
         <td><a href="#talk-romain-piron">Romain Piron</a></td>
-        <td class="program-empty" rowspan="2">—</td>
+        <td class="program-empty">—</td>
       </tr>
       <tr class="program-poster">
         <th scope="row">17:30 – 19:30</th>
@@ -110,6 +110,7 @@ nav_order: 3
           <div class="program-split-slot"><strong>Conference Photo</strong></div>
           <div class="program-split-slot program-empty-slot">—</div>
         </td>
+        <td class="program-empty">—</td>
       </tr>
     </tbody>
   </table>

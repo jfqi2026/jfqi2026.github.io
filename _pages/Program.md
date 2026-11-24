@@ -291,13 +291,13 @@ In this talk, I will perform a comparative analysis of two open-source quantum n
 
 <div id="talk-maria-kvashchuk" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### The most discriminable quantum states in the multicopy regime
 {: .talk-title }
 
 Maria Kvashchuk · LIP6, CNRS, Sorbonne University, NII
 {: .talk-byline }
 
-TBA
+This work investigates which sets of quantum states give rise to the highest achievable success probability in minimum-error state discrimination if multiple copies of the unknown state are given. Specifically, we consider k copies of N uniformly distributed states in dimension d, and derive universal limits in this scenario. For pure state ensembles, we prove that whenever N is large enough to support a state k-design, these designs will exactly give rise to the maximally discriminable sets. We further show that when N exceeds the size required for a k-design, mixed states can outperform all pure state ensembles. We then recognise that the problem of most discriminable classical states in the multi-copy regime is in one-to-one correspondence to the concept of the multiplicative Bayes capacity of independent uses of classical channels, a concept that emerges naturally in the context of classical information leakage. This connection allows us to completely solve the classical analogue of our problem when N is greater then or equals the dimension of the symmetric subspace, and to prove that quantum systems offer a quadratic advantage (in number of copies k) over classical ones. Then, we prove that this quantum over classical advantage is strongly reduced when one is restricted to real quantum states, more precisely, when N≥k+1, pure real qubits only offer a constant advantage over classical bits. Finally, we introduce computational techniques to find sets of most discriminable ensembles and to obtain rigorous universal upper bounds on the maximal success probability for multi-copy state discrimination in cases that are analytically intractable.
 
 </div>
 

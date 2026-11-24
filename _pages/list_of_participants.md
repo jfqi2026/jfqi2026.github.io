@@ -16,7 +16,6 @@ nav_order: 4
 - Polina Chernyshova
 - Philippe Codognet
 - Monet Tokuyama Friedrich
-- Alex B. Grilo
 - Michal Hajdušek
 - Shun Hasegawa
 - Yutaka Hashimoto
@@ -30,10 +29,9 @@ nav_order: 4
 - Marii Koyama
 - Ravi Kunjwal
 - Maria Kvashchuk
-- Jonas Landman
 - Kristin S. Lien
 - Eliott Mamon
-- Thales Gottardello Marrafon
+- Thales G. Marrafon
 - Camiel Meijer
 - Mehdi Mhalla
 - Ryo Mikami

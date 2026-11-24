@@ -23,12 +23,12 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 
 - [Armando Angrisani](https://sites.google.com/view/angrisani) (University of Copenhagen → DIENS, CNRS, École normale supérieure)
 - [Polina Chernyshova](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2890&LANG=en) (LIP6, CNRS, Sorbonne University)
-- [Philippe Codognet](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1167) (JFLI, CNRS, Sorbonne University)
+- [Philippe Codognet](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1167) (JFLI, CNRS, Sorbonne University, The University of Tokyo, NII)
 - [Michal Hajdušek](https://quantum.keio.ac.jp/employees/michal-hajdusek/) (Keio University)
 - [Tadashi Kadowaki](https://dblp.org/pid/36/7606.html) (AIST)
 - [Masato Koashi](https://www.u-tokyo.ac.jp/focus/en/people/people003544.html) (The University of Tokyo)
 - [Ravi Kunjwal](https://ravikunjwal.com) (LIS, CNRS, Aix-Marseille University)
-- [Jonas Landman](https://scholar.google.com/citations?user=itqTkSwAAAAJ&hl=fr) (DIENS, Inria, CNRS, École normale supérieure)
+- [Maria Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859) (LIP6, CNRS, Sorbonne University, NII)
 - [Kristin S. Lien](https://www.lip6.fr/actualite/personnes-fiche.php?ident=I2142&LANG=en) (LIP6, CNRS, Sorbonne University)
 - [Eliott Mamon](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2713) (LIP6, CNRS, Sorbonne University)
 - [Mehdi Mhalla](https://membres-lig.imag.fr/mhalla/) (LIG, CNRS, University Grenoble Alpes)
@@ -49,10 +49,11 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 - [Satoshi Yoshida](https://sy3104.github.io) (The University of Tokyo)
 
 **Organization:** [Jessica Bavaresco](https://jessicabavaresco.github.io/) and [Marco Túlio Quintino](https://mtcq.github.io/) <br>
-**Local organization support:** [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
-**Local admin support:** Toshie Sakakihara <br><br>
+Contact emails: [jessica.bavaresco@lip6.fr](mailto:Jessica.Bavaresco@lip6.fr) and [marco.quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr) <br><br>
+**Local organization support:** [Philippe Codognet](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1167) and [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
+**Local administrative support:** Toshie Sakakihara <br>
+**On-site conference support:** [Polina Chernyshova](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2890&LANG=en), [Maria Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859), [Thales G. Marrafon](https://quantum.nii.ac.jp/member.html), [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2862), [Lucas Porto](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2805), and [Zoe G. del Toro](https://zoegdt.github.io/) <br><br>
 <!-- Website: [Marco Túlio Quintino](https://mtcq.github.io/) <br> -->
-Contact emails: [jessica.bavaresco@lip6.fr](mailto:Jessica.Bavaresco@lip6.fr) and [marco.quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr)
 
 **Funding:**
 <div class="funding-logos">

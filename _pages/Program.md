@@ -70,7 +70,7 @@ nav_order: 3
       <tr>
         <th scope="row">14:30 – 15:00</th>
         <td><a href="#talk-takahiko-satoh">Takahiko Satoh</a></td>
-        <td><a href="#talk-jonas-landman">Jonas Landman</a></td>
+        <td><a href="#talk-maria-kvashchuk">Maria Kvashchuk</a></td>
         <td><a href="#talk-kristin-s-lien">Kristin S. Lien</a></td>
       </tr>
       <tr>
@@ -254,13 +254,13 @@ TBA
 
 <div id="talk-philippe-codognet" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### Comparing different QUBO models for hard combinatorial problems in Quantum Optimization.
 {: .talk-title }
 
-Philippe Codognet · JFLI, CNRS, Sorbonne University
+Philippe Codognet · JFLI, CNRS, Sorbonne University, The University of Tokyo, NII
 {: .talk-byline }
 
-TBA
+The Costas Arrays Problem, i.e., finding 2-dimensional arrays with optimal auto-correlation properties, is a hard combinatorial problem with many applications in remote sensing and telecommunications. We compare three models for the Costas Array Problem in the formalism of Quadratic Unconstrained Binary Optimization (QUBO), aimed at an implementation on quantum computers, especially in the quantum annealing approach. The first model is a simple and direct Boolean model in HUBO (Higher-Order Boolean Optimization), then quadratized in QUBO, which requires O(n^4) Boolean variables for a Costas array problem instance of size n. The second and third models are based on an integer-based model and take advantage of using the so-called ”difference triangle” in order to enforce the Costas Array property. For an instance of size n, these new models require O(n^3) Boolean variables and are thus more compact than the direct Boolean model. The difference between those two models is that one uses the one-hot encoding for integer-to-Boolean encoding, while the second uses the domain-wall/unary encoding. Experimental results on both quantum hardware (D-Wave computer) and quantum-inspired annealing hardware (Fixstars Amplify Annealing Engine) show that the domain-wall/unary model performs better than the one-hot model and both perform better than direct Boolean model. This highlights the interest, in quantum optimization, of investigating different QUBO models for the same problem and comparing their performance.
 
 </div>
 
@@ -278,22 +278,22 @@ TBA
 
 <div id="talk-michal-hajdusek" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### Cross-Validation of Open-Source Quantum Network Simulators
 {: .talk-title }
 
 Michal Hajdušek · Keio University
 {: .talk-byline }
 
-TBA
+In this talk, I will perform a comparative analysis of two open-source quantum network simulators, QuISP and SeQUeNCe, focusing on cross-validation of basic networking tasks to ensure consistency and accuracy in simulation outputs. Although both simulators are designed to study quantum network management policies and their dynamics under complex noise models, their differing underlying assumptions can lead to variations in simulation results. I will highlight the discrepancies in how the two simulators handle connections, internal network node processing time, and classical communication, resulting in significant quantitative and qualitative differences in the time required to perform basic network tasks such as entanglement generation, purification, and swapping.
 
 </div>
 
-<div id="talk-jonas-landman" class="talk-entry talk-detail" markdown="1">
+<div id="talk-maria-kvashchuk" class="talk-entry talk-detail" markdown="1">
 
 #### TBA
 {: .talk-title }
 
-Jonas Landman · DIENS, Inria, CNRS, École normale supérieure
+Maria Kvashchuk · LIP6, CNRS, Sorbonne University, NII
 {: .talk-byline }
 
 TBA
@@ -527,7 +527,7 @@ Marii Koyama · Keio University
 ### Entanglement-Aware Distribution of Feedback-Controlled Quantum Circuits
 {: .talk-title }
 
-Thales Gottardello Marrafon · NII
+Thales G. Marrafon · NII
 {: .talk-byline }
 
 </div>

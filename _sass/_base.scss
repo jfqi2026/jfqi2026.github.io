@@ -68,6 +68,8 @@ table {
 }
 
 .program-timetable {
+  --program-row-height: 4.5rem;
+
   margin: 1.75rem 0 2rem;
   overflow-x: auto;
   border: 1px solid var(--global-divider-color);
@@ -120,29 +122,20 @@ table {
   tbody {
     th,
     td {
-      height: 4.5rem;
-    }
-
-    // Keep registration and opening the same height as a half-hour talk.
-    tr:nth-child(-n + 2) {
-      strong {
-        padding-top: 0;
-        padding-bottom: 0;
-        vertical-align: middle;
-      }
-    }
-
-    // Give the lunch and poster slots equal extra height.
-    tr.program-lunch th,
-    tr.program-lunch td,
-    tr.program-poster th,
-    tr.program-poster td {
-      height: 7rem;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
     }
 
     tr {
+      height: var(--program-row-height);
       background: #fff;
       color: #333;
+    }
+
+    // Display each two-hour session at twice the half-hour row height.
+    tr.program-lunch,
+    tr.program-poster {
+      height: calc(2 * var(--program-row-height));
     }
 
     tr.program-event,
@@ -157,7 +150,8 @@ table {
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 3.5rem;
+        box-sizing: border-box;
+        height: var(--program-row-height);
         padding: 0.4rem;
         color: inherit;
       }

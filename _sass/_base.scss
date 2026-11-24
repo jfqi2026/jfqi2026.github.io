@@ -68,7 +68,8 @@ table {
 }
 
 .program-timetable {
-  --program-row-height: 4.5rem;
+  // Calculate heights in Sass: the production minifier corrupts var() inside calc().
+  $program-row-height: 4.5rem;
 
   margin: 1.75rem 0 2rem;
   overflow-x: auto;
@@ -127,7 +128,7 @@ table {
     }
 
     tr {
-      height: var(--program-row-height);
+      height: $program-row-height;
       background: #fff;
       color: #333;
     }
@@ -135,7 +136,7 @@ table {
     // Display each two-hour session at twice the half-hour row height.
     tr.program-lunch,
     tr.program-poster {
-      height: calc(2 * var(--program-row-height));
+      height: $program-row-height * 2;
     }
 
     tr.program-event,
@@ -151,13 +152,13 @@ table {
         align-items: center;
         justify-content: center;
         box-sizing: border-box;
-        height: calc(2 * var(--program-row-height) / 3);
+        height: calc(2 * $program-row-height / 3);
         padding: 0.4rem;
         color: inherit;
       }
 
       .program-empty-slot {
-        height: calc(4 * var(--program-row-height) / 3);
+        height: calc(4 * $program-row-height / 3);
         border-top: 1px solid var(--global-divider-color);
         background: #f2f2f2;
       }

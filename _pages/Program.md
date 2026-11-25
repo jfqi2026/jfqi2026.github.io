@@ -239,13 +239,13 @@ TBA
 
 <div id="talk-polina-chernyshova" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### The role of prior in quantum state estimation and discrimination
 {: .talk-title }
 
 Polina Chernyshova · LIP6, CNRS, Sorbonne University
 {: .talk-byline }
 
-TBA
+In this work we investigate the role of a prior probability distribution in the task of estimating and discriminating quantum states. To do so, we consider the task of finding the hardest prior for state estimation and discrimination: given a set of states and a score/payoff function, maximise the performance over measurements and minimise it over prior probability distributions. We frame this optimisation via semidefinite programming (SDP) and discuss its equivalence with the standard notion of worst-case state estimation, also known as Bayesian minimax estimation. Among other features, our SDP formulation shows that, for worst-case state discrimination, the optimal success probability of discrimination can be reached by a POVM with equal success probabilities for every state. We then address the question of when the uniform distribution over the states is the hardest prior. We prove that, as in the group covariant case, the hardest prior for discriminating within the set of states forming a state k-design is necessarily uniform. On the other hand, we show that for non-symmetric sets of states the hardest prior distribution can be arbitrarily close to a deterministic distribution. Lastly, we investigate the most discriminable states in the multicopy regime in the hardest prior scenario. There, we show that states forming k-designs are not only k-copy most discriminable in the uniform prior case but also in the hardest prior scenario.
 
 </div>
 

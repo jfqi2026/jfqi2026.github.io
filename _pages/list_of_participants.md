@@ -57,6 +57,7 @@ nav_order: 4
 - Ivan Šupić
 - Ryuji Takagi
 - Theerapat Tansuwannont
+- Ryosuke Torikai
 - Zoe G. del Toro
 - Nicolas Treps
 - Rodney van Meter

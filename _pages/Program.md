@@ -168,13 +168,24 @@ The time-frequency modes of light form a collection of quantum harmonic oscillat
 
 <div id="talk-perola-milman" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### The quantum computational description of the electromagnetic field
 {: .talk-title }
 
 Pérola Milman · MPQ, CNRS, University Paris Cité
 {: .talk-byline }
 
-TBA
+Quantum information can be encoded in states of the quantum electromagnetic field, with computational operations implemented through physical processes. Within this correspondence, computational resources—such as computational basis states and Clifford and non-Clifford gates—are constructed from physical resources. In quantum optics and bosonic quantum information more generally, these resources are intimately connected to the notion of nonclassicality of physical states. However, establishing an exact mapping between the computational and physical spaces faces fundamental challenges. From a physical perspective, the quantum field is composed of bosons, which are indistinguishable particles whose states are symmetric under exchange, whereas qubits or qudits are distinguishable systems that can be individually addressed. Moreover, from a computational perspective, qubits and qudits are defined in finite-dimensional Hilbert spaces, while the electromagnetic field admits unbounded observables with continuous spectra.
+
+In this talk, I will show that a formal correspondence between the descriptions of quantum computers and the electromagnetic field can be established by explicitly incorporating a quantum phase reference into the quantum-optical formalism. Within this description, bosonic states obey a photon-number superselection rule, which forbids coherences between different total photon-number sectors. In recent works, we have shown that this approach enables us to identify computational resources encoded in quantum states of the field [1], determine the origin of quantum metrological advantage [2], and unveil the physical origin of non-Gaussianity, a property closely associated with nonclassicality and potential quantum computational advantage [3].
+
+I will detail the necessary and sufficient conditions for the emergence of the conventional continuous-variable description of the quantum field [3] and use these results to show that it is always possible to map, with arbitrary precision, a quantum computer onto the electromagnetic field and vice versa. Furthermore, I will demonstrate that, for any encoding of quantum information in the bosonic Hilbert space, resources that are provably efficiently simulatable on a classical computer can always be represented by positive phase-space distributions [4].
+
+**References**
+
+[1] E. Descamps, N. Fabre, A. Saharyan, A. Keller, and P. Milman, “Superselection Rules and Bosonic Quantum Computational Resources,” Phys. Rev. Lett. 133, 260605 (2024). <br>
+[2] A. Saharyan, E. Descamps, A. Keller, and P. Milman, “Resources for bosonic metrology: Quantum-enhanced precision from a superselection rule perspective,” Phys. Rev. A 113, 022428 (2026). <br>
+[3] N. Moulonguet, E. Descamps, J. Lorgeré, A. Saharyan, A. Keller, and P. Milman, “Non-Gaussianity from Superselection Rules,” Phys. Rev. Lett. 137, 050203 (2026). <br>
+[4] E. Descamps, A. Saharyan, A. Keller, and P. Milman, “Phase-space representation of classical simulability for arbitrary bosonic encodings,” arXiv:2512.05603 (2025).
 
 </div>
 

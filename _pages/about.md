@@ -52,7 +52,7 @@ Information about the previous edition is available on the [JFQI 2023 website](h
 Contact emails: [jessica.bavaresco@lip6.fr](mailto:Jessica.Bavaresco@lip6.fr) and [marco.quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr) <br><br>
 **Local organization support:** [Philippe Codognet](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P1167) and [Akihito Soeda](https://www.nii.ac.jp/en/faculty/informatics/soeda_akihito/) <br>
 **Local administrative support:** Toshie Sakakihara <br>
-**On-site conference support:** [Polina Chernyshova](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2890&LANG=en), [Maria Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859), [Thales G. Marrafon](https://quantum.nii.ac.jp/member.html), [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2862), [Lucas Porto](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2805), and [Zoe G. del Toro](https://zoegdt.github.io/) <br><br>
+**On-site conference support:** [Polina Chernyshova](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2890&LANG=en), [Maria Kvashchuk](https://www.lip6.fr/actualite/personnes-fiche.php?LANG=en&ident=D2859), [Thales G. Marrafon](https://quantum.nii.ac.jp/member.html), [Camiel Meijer](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2862), [Romain Piron](https://rpiron.github.io), [Lucas Porto](https://www.lip6.fr/actualite/personnes-fiche.php?ident=D2805), and [Zoe G. del Toro](https://zoegdt.github.io/) <br><br>
 <!-- Website: [Marco Túlio Quintino](https://mtcq.github.io/) <br> -->
 
 **Funding:**

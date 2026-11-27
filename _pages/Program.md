@@ -227,13 +227,13 @@ TBA
 
 <div id="talk-carlos-vieira" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### The Infinite Classical Cost of Communicating a Ququart
 {: .talk-title }
 
 Carlos Vieira · Unicamp & LIP6, CNRS, Sorbonne University
 {: .talk-byline }
 
-TBA
+A quantum system can be prepared in a continuum of states, yet it cannot transmit unlimited classical information. Does this imply that its measurement statistics can always be simulated exactly using a finite amount of classical communication? While this is known to be possible for qubits, the question has remained open in higher dimensions. In this talk, I will present a complete answer to this problem. We show that qutrit communication can be simulated exactly using 357 classical bits, whereas ququart communication, and communication in any higher dimension, cannot be simulated exactly with any finite amount of classical communication, even with unlimited shared randomness. I will also briefly discuss how these results extend to the classical simulation of Bell nonlocality.
 
 </div>
 

@@ -278,7 +278,7 @@ The Costas Arrays Problem, i.e., finding 2-dimensional arrays with optimal auto-
 
 <div id="talk-tadashi-kadowaki" class="talk-entry talk-detail" markdown="1">
 
-#### TBA
+#### Exploring Spacetime Physics with Quantum Computers
 {: .talk-title }
 
 Tadashi Kadowaki · AIST
